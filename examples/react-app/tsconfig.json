@@ -1,4 +1,7 @@
 {
+  "compilerOptions": {
+    "types": ["./custom-elements.d.ts"]
+  },
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
