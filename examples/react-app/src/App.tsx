@@ -15,7 +15,6 @@ function App() {
             placeholder="Enter your username"
           />
         </div>
-
         <div className="mb-5">
           <label className="block text-gray-700 text-sm font-medium mb-1" htmlFor="password">
             Password
